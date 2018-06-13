@@ -39,4 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-j.crawford4747@gmail.com
+[Contact](mailto:j.crawford4747@gmail.com)
