@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Jacob Crawford
 
-You can use the [editor on GitHub](https://github.com/jcrawford812/jcrawford812.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bay Area developer with an emphasis on Backend and Data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+Capstone- Lead programmer and designer of game Othello, written in C#.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
